@@ -1,3 +1,6 @@
+#ce tp indivuduelement est pour fatimetou/ahmed/mina (metou) c34607
+#c'est une script qui contient tous les commandes de tp qu'on a deja fait
+
 
 echo " Démarrage du cluster Hadoop..."
 
